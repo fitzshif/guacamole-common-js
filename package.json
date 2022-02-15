@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/padarom/guacamole-common-js.git"
+    "url": "git+https://github.com/fitzshif/guacamole-common-js.git"
   },
   "files": [
     "dist"
